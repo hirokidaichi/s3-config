@@ -1,0 +1,28 @@
+{
+  "name": "s3-config",
+  "version": "0.0.1",
+  "description": "a node config module for amazon s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hirokidaichi/s3-config.git"
+  },
+  "keywords": [
+    "config",
+    "aws",
+    "s3"
+  ],
+  "author": "daichi hiroki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirokidaichi/s3-config/issues"
+  },
+  "homepage": "https://github.com/hirokidaichi/s3-config",
+  "dependencies": {
+    "aws-sdk": "^2.0.30",
+    "debug": "^2.1.0"
+  }
+}
